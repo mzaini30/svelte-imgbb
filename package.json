@@ -1,0 +1,23 @@
+{
+  "name": "svelte-imgbb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Imgbb.svelte",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzaini30/svelte-imgbb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzaini30/svelte-imgbb/issues"
+  },
+  "homepage": "https://github.com/mzaini30/svelte-imgbb#readme",
+  "dependencies": {
+    "kumpulan-tools": "^1.0.0"
+  }
+}

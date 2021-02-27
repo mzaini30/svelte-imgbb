@@ -20,3 +20,7 @@ npm i svelte-imgbb
 	const key = 'kajviam38akjkd93'
 </script>
 ```
+
+## Catatan
+
+Untuk `key`, bisa diambil dari https://api.imgbb.com/
